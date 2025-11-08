@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                              http://maven.apache.org/xsd/settings-1.0.0.xsd">
+    <servers>
+        <server>
+            <id>vtb-sample-java</id>
+            <username>vtb.aws.services.cli</username>
+            <password>eyJ2ZXIiOjEsImlzdSI6MTc2MjYwNjMzMSwiZW5jIjoiQTEyOEdDTSIsInRhZyI6IlEyS284Zk5XMUlZWHVvbWtiRVc4Z1EiLCJleHAiOjE3NjI2NDk1MzEsImFsZyI6IkExMjhHQ01LVyIsIml2IjoiUjJxaTd3cUtOeWFvc2h6WiJ9.EH0I8nfgzla9tJSksUcmxQ.znB1rAoiWKyHxtMI.eYML_cMrSF-EOfKbGPUY6bpUQZDZo80XLg3x-gtT62tOdMyR-x_KgXlUoryx_kZ1BiCHKL-osSJTmxEQjyErTJWQ85RX1IpdQTj5rFh8xdOwne7bn3LoZEDLdgXc_bGnFIA2aKXQniFSYeNlzItuHFyyOZuBjQ0Zlk0ICK6Wo1wBFrXQb-maJVbKUnkYrwLsPokwfqFAFQS7IORmAVyri2uSZ8PDz-KD8aThsAM4Zu5DHYF0lS1XVexD4Bkdc6ZrOkN3qhMo8Xmo7SEia0yeSONeFhtB1WS_uAGZzGITa-uTELWEa0ElPDFv31gzMUJdR-jon1m02ZdsEYCpDh3mnJoQv-qvEXZo5s1uy5OoaMzxRHEcnBr0sLNMPYxOHQZiZakgJU_LRFoqiqD6Udy-LUITEF3BBiI_AiWyarSkZJOk0i1OhwH6xByyVgcnu-DO4-w6-KiSeWUK5_xTi5nh2Y4Yn3tCvqlG8QSvSnJpLO9tMDB7vUs-X3dJ-tgxnxfgTirWvkOJf0Llk1z92sCFYjpLq_OXY5h-OL2ygb642qXVIbUXvWz9bqXRDH1naczfdAoYdTYuZQdcZE0BU7heAr13mY2E6KlDmHyuDgLP0xreldUtvvqXOij63Zc5SsqQFQcOdRrMHkVWBKSxl5fKNbiQh2othidybFViN07DCkuNjkMQCCoJZwhprvpzQ_TpLlKgLMBnYmfraS_qP7q4SQ2BJQpmupoUSfwSIvCJ-GYjk7Nb408D1YXkyP2MRjHcQ4RVVx6zg2BOug9QyfPoYfRY77IdFOIGhjLd4FYXNARTd_D6BNBjCnMgX6ZUA-rPhsrYkV2QF5Sa9u05l5SyMLePkSx-q4iYPz96gAbLOcd96stZjDsEwgR97C4jCgE7hGabU8fPS-KBkvfTYQQwRAIVi5lbzvOqPLMbX1IB-Xa3thwW-c_a4qjxPPpphJykHNfRHieiM9cdUDgiw3MPfpoQB9c.NnSesn_LdECi7W3htwKpuQ</password>
+        </server>
+    </servers>
+</settings>
