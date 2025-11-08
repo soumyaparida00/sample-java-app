@@ -48,8 +48,6 @@
 			<id>vtb-sample-java</id>
 			<name>vtb-sample-java</name>
 			<url>https://vtb-851725524405.d.codeartifact.ap-south-1.amazonaws.com/maven/sample-java/</url>
-			<username>vtb.aws.services.cli</username>
-          	<password>${env.CODEARTIFACT_AUTH_TOKEN}</password>
 		</repository>
 	</distributionManagement>
 
