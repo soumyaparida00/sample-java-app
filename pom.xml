@@ -43,5 +43,12 @@
 			</plugin>
 		</plugins>
 	</build>
+	<distributionManagement>
+		<repository>
+			<id>vtb-sample-java</id>
+			<name>vtb-sample-java</name>
+			<url>https://vtb-851725524405.d.codeartifact.ap-south-1.amazonaws.com/maven/sample-java/</url>
+		</repository>
+	</distributionManagement>
 
 </project>
